@@ -1,0 +1,27 @@
+{
+  "name": "world-population-live-tracker",
+  "version": "1.0.0",
+  "description": "GlobalPulse - Real-time World Population & Live Birth Tracker Dashboard with Interactive Leaflet Atlas Map and Demographic AI Intelligence Engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "population",
+    "demographics",
+    "tracker",
+    "dashboard",
+    "leaflet",
+    "map",
+    "ai",
+    "express",
+    "sqlite"
+  ],
+  "author": "aryanpatel6313-cpu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
